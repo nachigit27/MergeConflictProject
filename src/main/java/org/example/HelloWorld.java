@@ -24,4 +24,7 @@ public class HelloWorld {
     public static void doSomething2(){
         System.out.println("Merge Conflict Demo-2");
     }
+    public static void doSomething1(){
+        System.out.println("Merge Conflict Demo-1");
+    }
 }
