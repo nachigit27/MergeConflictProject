@@ -12,4 +12,7 @@ public class HelloWorld {
     public static void doSomething(){
         System.out.println("Please Do Something");
     }
+    public static void doFetch(){
+        System.out.println("Please Do Fetching");
+    }
 }
