@@ -18,4 +18,7 @@ public class HelloWorld {
     public static void doFetchnMerge(){
         System.out.println("Please Do Fetching and Merging");
     }
+    public static void doGitPull(){
+        System.out.println("Please Do Git Pull");
+    }
 }
