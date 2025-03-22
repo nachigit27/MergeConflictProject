@@ -21,4 +21,7 @@ public class HelloWorld {
     public static void doGitPull(){
         System.out.println("Please Do Git Pull");
     }
+    public static void doSomething2(){
+        System.out.println("Merge Conflict Demo-2");
+    }
 }
