@@ -15,4 +15,7 @@ public class HelloWorld {
     public static void doFetch(){
         System.out.println("Please Do Fetching");
     }
+    public static void doFetchnMerge(){
+        System.out.println("Please Do Fetching and Merging");
+    }
 }
