@@ -30,4 +30,9 @@ public class HelloWorld {
     public static void doSomething3(){
         System.out.println("First commit in user registration branch");
     }
+    public static void doSomething4(){
+        for (int i=0;i<14;i++){
+            System.out.println(i);
+        }
+    }
 }
