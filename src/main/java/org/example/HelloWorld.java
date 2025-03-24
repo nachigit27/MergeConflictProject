@@ -27,4 +27,7 @@ public class HelloWorld {
     public static void doSomething1(){
         System.out.println("Merge Conflict Demo-1");
     }
+    public static void doSomething3(){
+        System.out.println("First commit in user registration branch");
+    }
 }
