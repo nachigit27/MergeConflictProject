@@ -31,8 +31,10 @@ public class HelloWorld {
         System.out.println("First commit in user registration branch");
     }
     public static void doSomething4(){
-        for (int i=0;i<14;i++){
-            System.out.println(i);
-        }
+       int a=10;
+       int b=100;
+       if(a==b){
+           System.out.println("Both are equal");
+       }
     }
 }
